@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+venv/
+env/
+pending_reminders.json
+logs/
+.DS_Store
+Thumbs.db
+.env
